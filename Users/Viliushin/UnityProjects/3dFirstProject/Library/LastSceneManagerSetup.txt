@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Viliushin/UnityProjects/TappyBall/Assets/Scenes/Menu.unity
+  isLoaded: 1
+  isActive: 1
